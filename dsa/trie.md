@@ -113,3 +113,11 @@ func main(t *testing.T) {
 
 前缀树如何进行压缩？
 前缀树的优缺点是什么？
+
+## Leetcode
+
+- [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/#/description)
+- [211. Add and Search Word - Data structure design](https://leetcode.com/submissions/detail/98755427/)
+- [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/#/description)
+- [212. Word Search II](https://leetcode.com/problems/word-search-ii/#/description)
+- [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/#/description)
