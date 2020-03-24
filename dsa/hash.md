@@ -38,6 +38,11 @@ todo
 
 todo
 
+## 应用
+
+- redis
+- memcached
+
 ## 直接定址表与桶状哈希表
 
 todo

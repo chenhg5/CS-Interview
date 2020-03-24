@@ -124,6 +124,13 @@ func main(t *testing.T) {
 - [212. Word Search II](https://leetcode.com/problems/word-search-ii/#/description)
 - [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/#/description)
 
-## Vector Trie
+## 扩展
 
-[vector trie](https://github.com/chenhg5/CS-Interview/blob/master/dsa/immutable.md)
+- AC Automata on double array trie
+- rank-select
+- DFUDS trie
+- louds trie
+- patritia-trie
+- recursive-patricia-trie
+- [vector trie](https://github.com/chenhg5/CS-Interview/blob/master/dsa/immutable.md)
+
