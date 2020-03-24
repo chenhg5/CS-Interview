@@ -17,3 +17,4 @@ golang 相关知识与未来趋势
 - [golang 相关问题的官方解答](https://golang.org/doc/faq)
 - [Understanding the context package in golang](http://p.agnihotry.com/post/understanding_the_context_package_in_golang/)
 - [Handling errors in defer](https://pocketgophers.com/handling-errors-in-defer/)
+- [Go语言--空结构体struct{}解析](https://blog.csdn.net/qq_34777600/article/details/87195673)
