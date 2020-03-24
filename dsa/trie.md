@@ -109,6 +109,8 @@ func main(t *testing.T) {
 
 为什么说前缀树是cache-friendly的呢？
 
+为什么查询字符串时前缀树比hash table查询要快？
+
 ## 压缩
 
 前缀树如何进行压缩？
