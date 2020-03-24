@@ -4,6 +4,8 @@
 
 ## 常量
 
+熟悉各种常量可以帮助判断dsa的边界与瓶颈所在
+
 ### cpu计算速度
 
 FLOP/s，Floating-point operations per second，每秒峰值速度，
@@ -17,6 +19,8 @@ FLOP/s，Floating-point operations per second，每秒峰值速度，
 Intel 的 i5-2520M @2.5 Ghz 的处理器为例，其计算能力 2.5 * 4（4核）= 10 GFLOPS
 
 ### 内存
+
+### io速度
 
 todo
 
