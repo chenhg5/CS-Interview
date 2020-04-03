@@ -2,6 +2,14 @@
 
 从工程角度理解和分析数据结构相关知识
 
+## 目录
+
+- [位图](https://github.com/chenhg5/CS-Interview/blob/master/dsa/bitmap.md)
+- [哈希表](https://github.com/chenhg5/CS-Interview/blob/master/dsa/hash.md)
+- [前缀表](https://github.com/chenhg5/CS-Interview/blob/master/dsa/trie.md)
+- [leetcode](https://github.com/chenhg5/CS-Interview/blob/master/dsa/trie.md)
+- [不可变数据结构](https://github.com/chenhg5/CS-Interview/blob/master/dsa/immutable.md)
+
 ## 哲学
 
 - 离开数据量和数据访问模式来谈数据结构都是耍流氓
