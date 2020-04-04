@@ -4,5 +4,6 @@
 
 ## 资源
 
+- [6502微处理器指令与汇编](https://www.youtube.com/watch?v=LnzuMJLZRdU)
 - [从零入门8086汇编](https://juejin.im/post/5d01b248e51d45108126d229)
 - [现代x64汇编](https://www.youtube.com/playlist?list=PLKK11Ligqitg9MOX3-0tFT1Rmh3uJp7kA)
