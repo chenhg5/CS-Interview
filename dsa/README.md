@@ -6,7 +6,7 @@
 
 - [位图](https://github.com/chenhg5/CS-Interview/blob/master/dsa/bitmap.md)
 - [哈希表](https://github.com/chenhg5/CS-Interview/blob/master/dsa/hash.md)
-- [前缀表](https://github.com/chenhg5/CS-Interview/blob/master/dsa/trie.md)
+- [前缀树](https://github.com/chenhg5/CS-Interview/blob/master/dsa/trie.md)
 - [leetcode](https://github.com/chenhg5/CS-Interview/blob/master/dsa/trie.md)
 - [不可变数据结构](https://github.com/chenhg5/CS-Interview/blob/master/dsa/immutable.md)
 
