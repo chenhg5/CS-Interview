@@ -2,6 +2,16 @@
 
 TCP 协议，全称：Transmission Control Protocol，传输控制协议。位于IP层之上，应用层之下。是一个基于字节流（而非消息）的，面向连接的，可靠的传输层通信协议。
 
+## 常量
+
+### 数据包大小
+
+todo  [TCP 协议简介](http://www.ruanyifeng.com/blog/2017/06/tcp-protocol.html)
+
+### 传输速度
+
+北京到上海，1000公里需要多少ms
+
 ## 连接建立与断开
 
 关于TCP最常见的一个知识点，即是：三次握手和四次挥手。
