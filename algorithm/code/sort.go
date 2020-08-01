@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+// https://www.cnblogs.com/onepixel/articles/7674659.html
+
 // 排序算法集合
 // --------------------------
 // > 冒泡排序
@@ -43,6 +45,10 @@ func BubbleSort(src []int) {
 	}
 
 	// n + (n-1) + (n-2) + ... + 1 = (n + 1) * n / 2 = O(n^2)
+}
+
+func SelectionSort(src []int) {
+
 }
 
 // 合并 [l,r] 两部分数据，mid 左半部分的终点，mid + 1 是右半部分的起点
